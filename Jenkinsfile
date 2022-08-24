@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh '''
                 bash ./jenkins.sh
-                bash ./jenkins2.sch
+                bash ./jenkins2.sh
               
               '''
             }
